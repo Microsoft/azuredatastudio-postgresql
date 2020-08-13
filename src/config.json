@@ -15,9 +15,9 @@
 		"Ubuntu_16": "linux-x64.tar.gz",
 		"Linux": "linux-x64.tar.gz"
 	},
-	"installDirectory": "pgsqltoolsservice/{#platform#}/{#version#}",
+	"installDirectory": "ossdbtoolsservice/{#platform#}/{#version#}",
 	"executableFiles": [
-		"pgsqltoolsservice/pgtoolsservice_main",
-		"pgsqltoolsservice/pgtoolsservice_main.exe"
+		"pgsqltoolsservice/ossdbtoolsservice_main",
+		"pgsqltoolsservice/ossdbtoolsservice_main.exe"
 	]
 }
